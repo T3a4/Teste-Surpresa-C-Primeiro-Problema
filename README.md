@@ -6,6 +6,5 @@ class Program
    {
       Console.WriteLine("Bom dia!");
       Console.WriteLine("Eu amo programação!");
-      }
-    }
-    
+   }
+}
